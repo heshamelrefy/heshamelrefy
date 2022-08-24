@@ -11,7 +11,7 @@
 <br>  
   
 ## :sassy_man:  About me  
-- :school: I `graduated` from Faculty of Computers & Information at Pharous Academy
+- :school: I `graduated` from Faculty of computer science at Pharous Academy
  
 - 🔭 I'm currently a `trainee` at ITI intensive code camp  
 - 📫 How to reach me **hesham.elrify@gmail.com**  
