@@ -13,7 +13,7 @@
 ## :sassy_man:  About me  
 - :school: I `graduated` from Faculty of computer science at Pharous Academy
  
-- 🔭 I'm currently a `trainee` at ITI intensive code camp  
+- 🔭 I'm graduated a `trainee` at ITI intensive code camp  
 - 📫 How to reach me **hesham.elrify@gmail.com**  
 - :nerd_face: Always `learning new things`   
   
